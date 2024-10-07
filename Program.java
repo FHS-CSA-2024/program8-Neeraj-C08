@@ -2,6 +2,7 @@ import java.util.Scanner;//import stuff here
 
 //Your code here
 
+//Class and file name should match (Pretend the file name is Program8.java
 public class program8{
     
    public static void main(String [] args){
